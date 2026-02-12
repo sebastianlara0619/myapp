@@ -1,16 +1,8 @@
-# myapp
+# Act.8-6-J-SLB-0619-ListView
+## ListView en Flutter Web
 
-A new Flutter project.
+<img width="1311" height="916" alt="image" src="https://github.com/user-attachments/assets/a550d204-fa58-43ee-a416-e8cc2808a38d" />
 
-## Getting Started
+## ListView en Flutter Android 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="969" height="885" alt="image" src="https://github.com/user-attachments/assets/369d357d-a2e5-434a-b224-b872d4c61742" />
